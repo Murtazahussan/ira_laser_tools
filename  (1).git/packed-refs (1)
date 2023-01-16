@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+5a576f876b779b204371ba69601fa0338248c085 refs/remotes/origin/kinetic
+958d0ac8e103822ce9ce04c0bb9c3b499322575d refs/remotes/origin/ros1-master
+d2c0aed2b9f275ef84dc33daae3c88d62b0fb13e refs/tags/1.0.0
+^d9d467fc9ac8081fde9eabd21241b5fee4061da6
+57b7db7f7c7264a42ea7d667e031f33e60553d1f refs/tags/1.0.1
+41f06468ed63d96053ff2b29cac32080d8d8b596 refs/tags/1.0.2
+fe08b3e045e2ad11afbd2041e29598683368e12e refs/tags/1.0.3
+6b254c558305fd080a7f4d678a347af5abbe7c3e refs/tags/1.0.4
+958d0ac8e103822ce9ce04c0bb9c3b499322575d refs/tags/1.0.7
+3b882e595f881d6c609502df08132fbf7057980b refs/tags/melodic-1.0.6
+a7ce917c83fbc1c5d714d84da5654b40ec12add3 refs/tags/noetic-1.0.6
+901962c1bdb457a2a8c8dc62bbb32a1d44766569 refs/tags/v1.0.0
+^d9d467fc9ac8081fde9eabd21241b5fee4061da6
